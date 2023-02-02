@@ -10,7 +10,7 @@ public class UserInputDemo {
 		Scanner sc  = new Scanner(System.in);
 		System.out.println("Enter integer value ");
 		int x = sc.nextInt();
-		System.out.println("Enter flaot value ");
+		System.out.println("Enter float value ");
 		float y = sc.nextFloat();
 		System.out.println("Enter a character ");
 		char ch = sc.next().charAt(0);
