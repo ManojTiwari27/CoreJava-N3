@@ -9,7 +9,7 @@ public class OperatorDemo {
 		int y = sc.nextInt();
 		
 		
-		// Arithmetic Opeartor
+		// Arithmetic Operator
 		System.out.println("Addition is "+(x+y));
 		System.out.println("Substraction is "+(x-y));
 		System.out.println("Multiplication is "+(x*y));
@@ -29,7 +29,7 @@ public class OperatorDemo {
 		
 		// Logical Operator
 		boolean res2 = (5==5) && (5>4);
-		boolean res3 = (5==4)||(4<5);
+		boolean res3 = (5==4) || (4<5);
 		boolean res4 = !(5==4);
 		System.out.println("(5==5) && (5>4) result is "+res2);
 		System.out.println("(5==4)||(4<5) result is "+res3);
