@@ -1,4 +1,4 @@
-package org.tnif.decisionmaking;
+package org.tnsif.decisionmaking;
 
 import java.util.Scanner;
 
