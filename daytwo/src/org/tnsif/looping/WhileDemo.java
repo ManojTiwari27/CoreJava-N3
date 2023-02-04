@@ -1,5 +1,6 @@
 package org.tnsif.looping;
 import java.util.Scanner;
+
 public class WhileDemo {
 
 	public static void main(String[] args) {

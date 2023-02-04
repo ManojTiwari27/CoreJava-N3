@@ -1,5 +1,4 @@
 package org.tnsif.decisionmaking;
-
 import java.util.Scanner;
 
 public class SwitchCaseDemo {

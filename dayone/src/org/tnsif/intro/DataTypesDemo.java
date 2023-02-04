@@ -38,10 +38,6 @@ public class DataTypesDemo {
 		System.out.println("The Value of str is: " +str);
 		System.out.println("The Value of boolean bool is: " +bool);
 		
-		
-		
-		
-		
-	}
+		}
 
 }

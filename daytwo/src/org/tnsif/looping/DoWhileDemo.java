@@ -7,7 +7,7 @@ public class DoWhileDemo {
 		do {
 			System.out.println("value of x is "+x);
 			x++;
-		}while(x<20);
+		}while(x<30);
 
 	}
 

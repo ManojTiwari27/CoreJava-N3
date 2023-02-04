@@ -1,6 +1,6 @@
 package org.tnsif.intro;
 import java.util.Scanner;
-//TO demostrate the example on user input
+//TO demonstrate the example on user input
 public class UserInputDemo {
 
 	public static void main(String[] args) {
