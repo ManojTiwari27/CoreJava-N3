@@ -18,6 +18,7 @@ public class Student extends Citizen {
 	public void setStudentname(String studentname) {
 		this.studentname = studentname;
 	}
+	
 	// Default Constructor
 	public Student() {
 		//super();

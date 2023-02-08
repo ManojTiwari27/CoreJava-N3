@@ -1,5 +1,5 @@
-package org.tnsif.looping;
-//Example on break
+package org.tnsif.jumping;
+
 public class BreakDemo {
 
 	public static void main(String[] args) {
@@ -11,5 +11,4 @@ public class BreakDemo {
 		}
 
 	}
-
 }

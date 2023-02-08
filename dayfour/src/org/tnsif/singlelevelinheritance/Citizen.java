@@ -8,6 +8,7 @@ public class Citizen {
 	private long mbno;
 	
 	// getters and Setters method
+	
 	public String getName() {
 		return name;
 	}
@@ -32,6 +33,7 @@ public class Citizen {
 	public void setMbno(long mbno) {
 		this.mbno = mbno;
 	}
+	
 	// Default Constructor
 	public Citizen() {
 		System.out.println("parent Class");

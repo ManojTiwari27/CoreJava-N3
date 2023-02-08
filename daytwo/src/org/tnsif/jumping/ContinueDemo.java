@@ -1,4 +1,4 @@
-package org.tnsif.looping;
+package org.tnsif.jumping;
 
 public class ContinueDemo {
 
